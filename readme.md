@@ -1,4 +1,4 @@
-## Dialog/AlertDialog/ProgressDialog继承关系类图
+## Dialog/AlertDialog/ProgressDialog关系类图
 
 ![dialog_uml_class.png](./docs/dialog_uml_class.png)
 
@@ -342,7 +342,7 @@ private void createIndeterminateProgressDialog() {
 
 效果演示
 
-![progress_dialog_style_determinate.gif](./docs/progress_dialog_style_determinate.gif)
+![progress_dialog_style_determinate.gif](./docs/progress_dialog_style_indeterminate.gif)
 
 **2. 水平进度条**
 
@@ -409,4 +409,4 @@ private void createDeterminateProgressDialog() {
 
 效果演示
 
-![progress_dialog_style_indeterminate.gif](./docs/progress_dialog_style_indeterminate.gif)
+![progress_dialog_style_indeterminate.gif](./docs/progress_dialog_style_determinate.gif)
