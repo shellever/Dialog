@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+
+    <string name="text_alert">提示对话框</string>
+    <string name="text_alert_title">提示</string>
+    <string name="text_alert_msg">请问你有女朋友吗？</string>
+    <string name="text_alert_btn_positive">有</string>
+    <string name="text_alert_btn_negative">没有</string>
+    <string name="text_alert_btn_neutral">沉默</string>
+    <string name="text_alert_btn_positive_tip">你可以走了！</string>
+    <string name="text_alert_btn_negative_tip">欢迎来到单身俱乐部！</string>
+    <string name="text_alert_btn_neutral_tip">有没有对我来说并不重要！</string>
+
+    <string name="text_list_simple">简单列表对话框</string>
+    <string name="text_list_simple_title">请选择一个移动平台</string>
+
+    <string name="text_list_radio">单选列表对话框</string>
+    <string name="text_list_radio_title">请选择你所在的城市</string>
+    <string name="text_list_radio_btn_positive">确认</string>
+    <string name="text_list_radio_btn_negative">取消</string>
+
+    <string name="text_list_check">多选列表对话框</string>
+    <string name="text_list_check_title">请选择编程开发语言</string>
+    <string name="text_list_check_btn_positive">确认</string>
+    <string name="text_list_check_btn_negative">取消</string>
+
+    <string name="text_custom_adapter">自定义适配器对话框</string>
+
+    <string name="text_custom_view">自定义视图对话框</string>
+    <string name="text_custom_view_title">Sign in dialog</string>
+    <string name="text_custom_view_btn_positive">Sign in</string>
+    <string name="text_custom_view_btn_negative">Cancel</string>
+    <string name="hint_sign_in_username">Username</string>
+    <string name="hint_sign_in_password">Password</string>
+
+    <string name="text_user_name">Stephen Curry</string>
+</resources>

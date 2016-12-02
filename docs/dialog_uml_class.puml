@@ -1,0 +1,15 @@
+@startuml
+
+interface DialogInterface
+
+class Dialog
+DialogInterface <|.. Dialog : implements
+
+class AlertDialog
+Dialog <|-- AlertDialog : extends
+DialogInterface <|.. AlertDialog : implements
+
+class ProgressDialog
+AlertDialog <|-- ProgressDialog : extends
+
+@enduml

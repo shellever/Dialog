@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="platforms">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Windows Phone</item>
+        <item>Blackberry</item>
+    </array>
+
+    <array name="languages">
+        <item>C/C++</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>Perl</item>
+        <item>Swift</item>
+    </array>
+
+    <array name="cities">
+        <item>Shenzhen</item>
+        <item>Shanghai</item>
+        <item>Beijing</item>
+        <item>Guangzhou</item>
+        <item>Suzhou</item>
+        <item>Qujing</item>
+    </array>
+</resources>
