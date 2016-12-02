@@ -410,3 +410,11 @@ private void createDeterminateProgressDialog() {
 效果演示
 
 ![progress_dialog_style_indeterminate.gif](./docs/progress_dialog_style_determinate.gif)
+
+## Contacts
+
+**Blog: [shellever](http://www.jianshu.com/users/22e9a407c7c1/latest_articles)**
+
+**Email: shellever@163.com**
+
+**Enjoy yourself!**
