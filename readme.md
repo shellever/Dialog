@@ -310,7 +310,7 @@ public static ProgressDialog show(
 ```
 
 **2. 取消ProgressDialog对话框**
-Dialog.cancel()和Dialog.dismiss()都可以删除对话框，但是使用cancel()方法会在删除对话框时回调DialogInterface.OnCancelListener监听器中的onCancel()方法，而dismiss()则不会进行回调。
+`Dialog.cancel()`和`Dialog.dismiss()`都可以删除对话框，但是使用`cancel()`方法会在删除对话框时回调`DialogInterface.OnCancelListener`监听器中的`onCancel()`方法，而`dismiss()`则不会进行回调。
 
 **3. 设置ProgressDialog进度条样式**
 
